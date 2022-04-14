@@ -1,7 +1,7 @@
 ---
 title: "Conoce la ciudad de madrid, con pruebamadrid.es"
-subtitle: Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
+subtitle: Tu mejor opcion
+image: /img/.jpg
 blurb:
     heading: Why Kaldi?
     text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
